@@ -1,11 +1,11 @@
-*.pyc
-
-# the download folder for any saved, crawled data (testing)
-data/
-.resume_jobdir/
-__pycache__/
-.idea/
-.DS_Store
-news-please.iml
-
-venv/
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+node_modules/
+bin/
+obj/
+.vs/
